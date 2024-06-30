@@ -8,7 +8,7 @@ This guide demonstrates how to deploy nginx on Kubernetes using Deployments, Ser
 
 - Kubernetes cluster up and running
 - `kubectl` command-line tool installed and configured
-- make sure node is having tolerations. else it pods will be in pending state.
+- Make sure node is having tolerations. else it pods will be in pending state.
 
 ## Steps
 
